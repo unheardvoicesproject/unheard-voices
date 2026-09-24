@@ -1985,3 +1985,13 @@ font-family: var(--font-heading), serif;
   line-height: 1.85;
   color: #292929;
 }
+.story-body p {
+  white-space: normal;
+}
+
+.story-body .story-poem {
+  white-space: pre-line;
+}
+.story-poem {
+  white-space: pre-line;
+}

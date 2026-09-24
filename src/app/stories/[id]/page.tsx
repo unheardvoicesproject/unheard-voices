@@ -151,14 +151,14 @@ const stories: Record<string, Story> = {
       "Reading poetry was something she did not feel particularly drawn to. Yet writing would redefine her from a young age, leading her to become a poet with her debut poetry book, “Mortals of Forever”.",
 
     greekIntroduction:
-      "Η ανάγνωση ποίησης δεν ήταν κάτι που της άρεσε ιδιαίτερα. Ωστόσο, η γραφή θα διαμόρφωνε την ταυτότητά της από νεαρή ηλικία, οδηγώντας την να γίνει ποιήτρια με το πρώτο της ποιητικό βιβλίο, «Mortals of Forever».",
+      "Η ανάγνωση ποίησης δεν ήταν κάτι που της άρεσε ιδιαίτερα. Ωστόσο, η γραφή θα διαμόρφωνε την ταυτότητά της από νεαρή ηλικία, οδηγώντας την να γίνει ποιήτρια με το πρώτο της βιβλίο ποίησης, «Mortals of Forever».",
 
     paragraphs: [
       "Shivaanshi felt that there was a big gap between her and poetry; she could not relate and find pieces that reflected her life or gave her a voice. This led to her putting pen to paper for the first time to create her own pieces and beginning a journey full of challenges and opportunities, through which she would explore herself and the world.",
 
       "“Mortals of Forever” is the name of her first poetry book released this summer. Initially it was a new and strange experience for her because she was still trying to figure out how to engage with it. Poems were scrapped, rewritten, edited, and drafted. Alongside them came doubts, vulnerability and confusion that brought to life this book. Furthermore, she says that in poetry authors do not just include their ideas about certain topics but they also leave pieces of themselves in their work, pieces that remain forever. However, for her that was a great challenge as she was hesitant to reveal deeply personal experiences of her own life to the public, and thus she struggled to find the ideal poems to include in the book.",
 
-      "One poem that haunted me personally was “Hourglass”, which radiates a strong sense of nostalgia and change. “There is something cruel about an hourglass because you can actually watch time leaving” she explains. For her, the hourglass eerily captures the feeling of time slipping through your hands, knowing that you cannot stop it, which perhaps is what makes it unsettling. Adding to this, she says that even though we know very well that our time is limited, we find ourselves being attached to people, places, and moments that cannot stay with us forever.",
+      "One poem that haunted me personally was “Hourglass”, which radiates a strong sense of nostalgia and change. “There is something cruel about an hourglass because you can actually watch time leaving” she explains. For her, the hourglass eerily captures the feeling of time slipping through your hands, knowing that you cannot stop it, for what makes it unsettling. Adding to this, she says that even though we know very well that our time is limited, we find ourselves being attached to people, places, and moments that cannot stay with us forever.",
 
       `Every grain
 once carried a face,
@@ -173,7 +173,7 @@ a hand it could not bear to lose.`,
     greekParagraphs: [
       "Η Shivaanshi ένιωθε ότι υπάρχει ένα μεγάλο χάσμα ανάμεσα σε εκείνη και την ποίηση· δεν μπορούσε να ταυτιστεί ούτε να βρει έργα που να αντικατοπτρίζουν τη ζωή της ή να της δίνουν φωνή. Αυτό την οδήγησε στο να πιάσει για πρώτη φορά το στυλό και να δημιουργήσει τα δικά της έργα, ξεκινώντας ένα ταξίδι γεμάτο προκλήσεις και ευκαιρίες που θα εξερευνούσε τον εαυτό της και τον κόσμο.",
 
-      "«Mortals of Forever» είναι το όνομα του πρώτου της βιβλίου ποίησης, το οποίο κυκλοφόρησε αυτό το καλοκαίρι. Αρχικά, ήταν μια νέα και παράξενη εμπειρία για εκείνη, καθώς προσπαθούσε ακόμη να καταλάβει πώς να το προσεγγίσει. Ποιήματα διαγράφονταν, διορθώνονταν και γράφονταν από την αρχή. Μαζί τους ήρθαν αμφιβολίες και στιγμές ευαλωτότητας, που έδωσαν ζωή σε αυτό το βιβλίο. Επιπλέον, εξηγεί ότι στην ποίηση οι συγγραφείς δεν συμπεριλαμβάνουν απλώς τις ιδέες τους για ορισμένα θέματα, αλλά αφήνουν επίσης κομμάτια του εαυτού τους μέσα στο έργο τους, κομμάτια που παραμένουν για πάντα. Ωστόσο, για εκείνη αυτό αποτέλεσε μεγάλη πρόκληση, καθώς δίσταζε να αποκαλύψει βαθιά προσωπικές εμπειρίες από τη ζωή της στο κοινό και έτσι δυσκολεύτηκε να βρει τα ιδανικά ποιήματα για να συμπεριλάβει στο βιβλίο της.",
+      "«Mortals of Forever» είναι το όνομα του πρώτου της βιβλίου ποίησης, το οποίο κυκλοφόρησε αυτό το καλοκαίρι. Αρχικά, ήταν μια νέα και παράξενη εμπειρία για εκείνη, καθώς προσπαθούσε ακόμη να καταλάβει πώς να το προσεγγίσει. Ποιήματα διαγράφονταν, διορθώνονταν και γράφονταν από την αρχή. Μαζί τους ήρθαν αμφιβολίες και στιγμές ευαλωτότητας, που έδωσαν ζωή σε αυτό το βιβλίο. Επιπλέον, εξηγεί ότι στην ποίηση οι συγγραφείς δεν συμπεριλαμβάνουν απλώς τις ιδέες τους για ορισμένα θέματα, αλλά αφήνουν επίσης κομμάτια του εαυτού τους μέσα στο έργο τους, κομμάτια που παραμένουν για πάντα. Ωστόσο, για εκείνη αυτό αποτέλεσε μεγάλη πρόκληση, καθώς δίσταζε να αποκαλύψει βαθιές προσωπικές εμπειρίες από τη ζωή της στο κοινό και έτσι δυσκολεύτηκε να βρει τα ιδανικά ποιήματα για να συμπεριλάβει στο βιβλίο της.",
 
       "Ένα ποίημα που προσωπικά με στοίχειωσε ήταν το «Hourglass», το οποίο αποπνέει μια έντονη αίσθηση νοσταλγίας και αλλαγής. «Υπάρχει κάτι σκληρό σε μια κλεψύδρα, γιατί μπορείς πραγματικά να βλέπεις τον χρόνο να φεύγει», εξηγεί. Για εκείνη, η κλεψύδρα αποτυπώνει με έναν αλλόκοτα ανατριχιαστικό τρόπο την αίσθηση του χρόνου που γλιστρά μέσα από τα χέρια σου, γνωρίζοντας ότι δεν μπορείς να τον σταματήσεις. Επιπλέον, λέει ότι, παρόλο που γνωρίζουμε πολύ καλά πως ο χρόνος μας είναι περιορισμένος, βλέπουμε τους εαυτούς μας να δενόμαστε με ανθρώπους, μέρη και στιγμές που δεν μπορούν να μείνουν μαζί μας για πάντα.",
 
@@ -319,11 +319,21 @@ export default function StoryPage({
           {(isEnglish
             ? story.paragraphs
             : story.greekParagraphs
-          ).map((paragraph, index) => (
-            <p key={index}>
-              {paragraph}
-            </p>
-          ))}
+          ).map((paragraph, index) => {
+            const isPoem =
+              story === stories["3"] && index === 3;
+
+            return (
+              <p
+                key={index}
+                className={
+                  isPoem ? "story-poem" : undefined
+                }
+              >
+                {paragraph}
+              </p>
+            );
+          })}
 
           <section className="reflection-section">
             <h2>
