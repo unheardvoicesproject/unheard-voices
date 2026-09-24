@@ -4,21 +4,27 @@ import Footer from "../components2/Footer";
 
 const stories = [
   {
+    id: "3",
+    title: "The Poet Behind the Words",
+    author: "Shivaanshi, Young Poetry Author",
+    category: "Writing & Poetry",
+    image: "/stories/shivaanshi.jpg",
+  },
+  {
     id: "1",
     title: "What It Feels Like to Start Over Again and Again",
-    author: "Diana, High-school student",
-    category: "Student life",
+    author: "Diana, High-school Student",
+    category: "Identity",
     image: "/stories/diana.jpg",
   },
   {
     id: "2",
     title: "More Than Just Grammar: A Teacher's Perspective",
-    author: "Evi, English teacher",
+    author: "Evi, English Teacher",
     category: "Education",
     image: "/stories/evi.jpg",
   },
 ];
-
 export default function Stories() {
   return (
     <main>
@@ -78,27 +84,19 @@ export default function Stories() {
             />
 
             <div className="card-content">
+  <p className="card-category">{story.category}</p>
 
-              <p className="card-category">
-                {story.category}
-              </p>
+  <p className="card-description">{story.author}</p>
 
-              <h2>
-                {story.title}
-              </h2>
+  <h2>{story.title}</h2>
 
-              <p className="card-description">
-                {story.author}
-              </p>
-
-              <a
-                href={`/stories/${story.id}`}
-                className="story-link"
-              >
-                Read story →
-              </a>
-
-            </div>
+  <a
+    href={`/stories/${story.id}`}
+    className="story-link"
+  >
+    Read story →
+  </a>
+</div>
 
           </article>
 
