@@ -3,6 +3,15 @@
 import Footer from "../components2/Footer";
 
 const stories = [
+   {
+    id: "4",
+    title: "Two Years of Making a Difference",
+    author: "Yeabsera, UNICEF volunteer",
+    category: "Volunteering",
+    image: "/stories/yea.jpg",
+  },
+ 
+ 
   {
     id: "3",
     title: "The Poet Behind the Words",
