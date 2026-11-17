@@ -1,17 +1,23 @@
+
 "use client";
 
 import Footer from "../components2/Footer";
 
 const stories = [
-   {
+  {
+    id: "5",
+    title: "A Second Chance, A Shared Purpose",
+    author: "Nancy Bosnoian, Columbia Student & Nonprofit Founder",
+    category: "Life Experiences · Social Impact",
+    image: "/stories/nancy.jpg",
+  },
+  {
     id: "4",
     title: "Two Years of Making a Difference",
     author: "Yeabsera, UNICEF volunteer",
     category: "Volunteering",
     image: "/stories/yea.jpg",
   },
- 
- 
   {
     id: "3",
     title: "The Poet Behind the Words",
@@ -34,14 +40,11 @@ const stories = [
     image: "/stories/evi.jpg",
   },
 ];
+
 export default function Stories() {
   return (
     <main>
-
-      {/* HEADER */}
-
       <header className="stories-top">
-
         <a href="/" className="stories-logo">
           UNHEARD VOICES
         </a>
@@ -51,41 +54,22 @@ export default function Stories() {
           <a href="/about">About</a>
           <a href="/">Home</a>
         </nav>
-
       </header>
 
-
-      {/* INTRO */}
-
       <section className="stories-intro">
+        <p className="section-label">THE STORIES</p>
 
-        <p className="section-label">
-          THE STORIES
-        </p>
-
-        <h1>
-          Voices from the margins.
-        </h1>
+        <h1>Voices from the margins.</h1>
 
         <p className="stories-description">
           Real experiences, real people. Each story is shared with
           permission and care.
         </p>
-
       </section>
 
-
-      {/* STORIES */}
-
       <section className="story-grid">
-
         {stories.map((story) => (
-
-          <article
-            className="card"
-            key={story.id}
-          >
-
+          <article className="card" key={story.id}>
             <img
               src={story.image}
               alt={story.title}
@@ -93,31 +77,24 @@ export default function Stories() {
             />
 
             <div className="card-content">
-  <p className="card-category">{story.category}</p>
+              <p className="card-category">{story.category}</p>
 
-  <p className="card-description">{story.author}</p>
+              <p className="card-description">{story.author}</p>
 
-  <h2>{story.title}</h2>
+              <h2>{story.title}</h2>
 
-  <a
-    href={`/stories/${story.id}`}
-    className="story-link"
-  >
-    Read story →
-  </a>
-</div>
-
+              <a
+                href={`/stories/${story.id}`}
+                className="story-link"
+              >
+                Read story →
+              </a>
+            </div>
           </article>
-
         ))}
-
       </section>
 
-
-      {/* FOOTER */}
-
       <Footer />
-
     </main>
   );
 }

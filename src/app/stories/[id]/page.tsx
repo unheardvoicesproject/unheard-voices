@@ -209,6 +209,100 @@ a hand it could not bear to lose.`,
       "Ποιος είναι ένας τρόπος που μπορείς να συνεισφέρεις στην κοινότητά σου;",
     ],
   },
+
+  "5": {
+    title: "A Second Chance, A Shared Purpose",
+    greekTitle: "Μια δεύτερη ευκαιρία, ένας κοινός σκοπός",
+    category: "Life Experiences · Social Impact",
+    greekCategory: "Εμπειρίες ζωής · Κοινωνικός αντίκτυπος",
+    person: "Nancy Bosnoian, Columbia Student & Nonprofit Founder",
+    greekPerson: "Nancy Bosnoian, Φοιτήτρια στο Columbia & Ιδρύτρια Μη Κερδοσκοπικού Οργανισμού",
+    date: "November 17, 2026",
+    greekDate: "17 Νοεμβρίου 2026",
+    author: "Asterios Vesiropoulos",
+    image: "/stories/nancy.jpg",
+
+    introduction:
+      "People saw a successful Columbia student, a nonprofit founder, and a keynote speaker. They did not see the journey of navigating the realities of war and the challenges of adapting to a new life that stood behind her dreams.",
+
+    greekIntroduction:
+      "Οι άνθρωποι έβλεπαν μια επιτυχημένη φοιτήτρια του Πανεπιστημίου Columbia, την ιδρύτρια ενός μη κερδοσκοπικού οργανισμού και μια κεντρική ομιλήτρια. Δεν έβλεπαν, όμως, την πορεία της μέσα από τις σκληρές πραγματικότητες του πολέμου και τις δυσκολίες της προσαρμογής σε μια νέα ζωή, οι οποίες βρίσκονταν πίσω από τα όνειρά της.",
+
+    paragraphs: [
+      "Looking back on her childhood in Aleppo, Syria, Nancy brings to her mind memories of warmth and little joys such as drinking her favourite tea before going to bed. She especially remembers her loving and devoted family, who made her feel happy, as well as the love she felt for her country. Beyond her cherished memories, her personality offers another glimpse into her past. Nancy was a shy child who would hide her birthday invitations so that she did not have to interact with other children, a trait that was very different compared to her present self. She further shares that her family tried to encourage her to socialize by taking her to parties or signing her up for activities she was not eager to do.",
+
+      "Then came a period in her life that brought an entirely different set of experiences. Her family had planned a 15-day trip to Los Angeles, including a visit to the magical Disneyland: a trip she had dreamt of for years as a child. What was meant to be the end of a long-awaited holiday became the beginning of an entirely different chapter. Nancy's parents were informed that the Aleppo airport had shut down, while back home, her grandparents and friends were facing difficulties and power outages for a week. That is when her father told them, “We cannot go back.” Those words marked the beginning of an unfamiliar life, 7,344 miles away from everything she had known. Over time, some of those difficult memories have become blurred. Nancy believes this may be her mind's way of protecting her.",
+
+      "Another challenge she faced was adapting to a foreign environment and encountering a culture distinct from her own. She is especially grateful to her mother, who managed to navigate the struggles of displacement while making sure her kids did not know about the cruel events taking place back in their home country. Nancy was familiar with the English language, having learned it at her French school and from her nanny, who would spend time teaching her. However, her mother did not know the language. The sense of cultural dissonance did not disappear, making it hard even to run small errands around her new neighborhood, she recalls.",
+
+      "She candidly admits that she did not know how to rebuild a sense of belonging in the States, but at the same time she did not want to give up because a second chance at life had been given to her. Perhaps most significantly, for her, the effects of war never simply disappeared. To this day, Nancy is still adapting to a culture while being separated from her family and friends, a situation she never really chose and would not have experienced if she had not been forced to leave.",
+
+      "After seven years, she felt that Los Angeles had begun to feel like home, a place where she could pursue her dreams and fight for a better world than the one she had to witness. At just 13, she understood that she wanted to make the most of the second chance at life she had been given. It was really important to her to set a goal of making a change in this world and to continuously fight for it.",
+
+      "Long before she even knew what a university was, Nancy had already set her sights on one. She recalls overhearing her cousins discussing the best university in the world. When she heard the name Harvard, she remembers saying to herself, “If this is the best school, then I want to graduate from it.” Although she attended Columbia rather than Harvard, Nancy never lost sight of the importance of aiming high in order to get the best education and have the knowledge to change the world around her. As she puts it, “If you shoot for the moon, you land on the stars.”",
+
+      "Beyond the academic ambitions themselves, navigating an unfamiliar educational system presented its own challenges. She recalls spending considerable time trying to understand how the system worked and where to find opportunities. She vividly remembers reaching out to different clubs and organizations by email, asking whether she could become involved, even when she was unfamiliar with them. These experiences also became lessons she would later pass on to her younger sister, helping her navigate opportunities that Nancy herself had once struggled to discover. One of the most important lessons she took away from this experience was the value of asking for help and guidance when she felt uncertain or did not know how to approach something. She came to understand that the harder you work, the luckier you get.",
+
+      "At Columbia University, Nancy understood what “knowledge is power” truly meant, both through her professors and through her experiences there. She has witnessed Nobel Prize laureates continuing their research, a reminder that the pursuit of knowledge never truly ends. For her, going to Columbia does not mean that she will stop gaining knowledge from people and experiences in the future or stop becoming better.",
+
+      "Her desire to make a difference took shape through the creation of “End No Sleep”, a nonprofit dedicated to providing young people around the world with accessible care and resources to support their mental health, while addressing one of its often-overlooked contributing factors: sleep deprivation. Nancy first shared her ideas with her friends, colleagues, and family members. It all started so simply by asking two friends if they wanted to join her new project. She also created a nine-slide PowerPoint presentation highlighting the benefits of sleep, which she wanted to present in local schools and organizations. With her own money, she hired an attorney, hoping to make End No Sleep a legally established organization. In 2023, she and her team transformed her initiative into a tech nonprofit with the help of artificial intelligence that could help thousands of young people worldwide. Today, End No Sleep mainly focuses on preventative healthcare because sleep plays a vital role in both mental and physical well-being.",
+
+      "One of the nonprofit's main programs is an AI-powered chatbot, accessible free of charge through WhatsApp, which aims to make preventative healthcare resources available to young people worldwide. By answering a series of questions, users receive guidance through their sleep-related difficulties and access to relevant resources, including mental health exercises. Nancy emphasizes that, unlike many other AI chatbots, its guidance is reviewed by the organization's medical board, while users' data remains anonymous.",
+
+      "Beyond this digital initiative, End No Sleep continues to provide schools with a digital sleep-health curriculum, raising awareness about the importance of sleep and its connection to overall well-being. A third area of its work involves advocacy. Through its international network of volunteers, the organization encourages young people to advocate for better sleep policies within their communities. This can begin with something as simple as approaching teachers about reducing excessive homework or encouraging schools to involve parents in creating an environment that supports students' sleep. Nancy also explains that, although policy change is not yet a central part of the organization's work, they hope to equip volunteers with the knowledge and resources to pursue it further.",
+
+      "The biggest obstacles she encountered were funding problems but, mainly, taking the risk of building something very unfamiliar to her at just 19. She had to manage a great deal of the workload alone and initially found it difficult to delegate responsibilities in order to make this project meaningful and impactful. Another obstacle she faced was the self-doubt that made her uncertain of her own abilities. She recalls reaching out to nearly 100 people through cold emails, only to receive three or four responses. However, those few responses became the foundation of her first board, making her understand that seeking help can open doors that she might not otherwise have found.",
+
+      "What Nancy finds fulfilling is knowing that she made the most of the second chance at life she was given by creating something that helps others. She shares that there have been moments when people have reached out to her to thank her for her help. Health issues are also something she has had to deal with in her life, so making the nonprofit's mission to support young people's well-being means a lot to her. As she explains, knowing that even one person has benefited from their work is enough to remind her why she started.",
+
+      "Over the years, Nancy's work has received recognition from several institutions and organizations, including One Young World, Vital Voices, the Zurich Foundation, the Clinton Foundation, and the Western Union Foundation. This recognition serves as motivation for her and her team to keep building and developing their nonprofit every day, because, as mentioned, there are many challenges and pressures in the process. Another significant milestone in Nancy's journey was the invitation to Harvard, where she spoke as an inspirational panelist about her personal story and work. Having previously faced rejection from the university, being invited a few years later to share her story with its students became what she describes as a full-circle moment.",
+
+      "From the very beginning of her journey, Nancy did not always hear encouraging advice for her dreams. To some people, her dreams seemed unrealistic because they judged her potential based on her image rather than recognizing the ambition in her eyes and her work ethic to achieve them. She used this underestimation as motivation, not to prove anyone wrong, but to continue pursuing her dreams. She explains that, throughout her life, her dreams never seemed impossible to her, and neither did her family think any different. “Be surrounded by people that make your dreams feel achievable and are curious about your passions and projects,” she advises. For Nancy, even a simple expression of interest in the work someone has put their heart into is truly special.",
+    ],
+
+    greekParagraphs: [
+      "Ανατρέχοντας στα παιδικά της χρόνια στο Χαλέπι της Συρίας, η Nancy θυμάται στιγμές ζεστασιάς και μικρές χαρές, όπως το να πίνει το αγαπημένο της τσάι πριν πάει για ύπνο. Θυμάται ιδιαίτερα την αγαπημένη και αφοσιωμένη οικογένειά της, που την έκανε να νιώθει ευτυχισμένη, καθώς και την αγάπη που ένιωθε για την πατρίδα της. Πέρα από τις πολύτιμες αναμνήσεις της, η προσωπικότητά της προσφέρει μια ακόμη ματιά στο παρελθόν της. Η Nancy ήταν ένα ντροπαλό παιδί που έκρυβε τις προσκλήσεις για τα γενέθλιά της, ώστε να μην χρειάζεται να συναναστρέφεται με άλλα παιδιά, μια συμπεριφορά πολύ διαφορετική από τον σημερινό της χαρακτήρα. Αναφέρει επίσης ότι η οικογένειά της προσπαθούσε να την ενθαρρύνει να κοινωνικοποιηθεί, πηγαίνοντάς την σε πάρτι ή γράφοντάς την σε δραστηριότητες που η ίδια δεν ήταν ιδιαίτερα πρόθυμη να δοκιμάσει.",
+
+      "Έπειτα ήρθε μια περίοδος στη ζωή της που έφερε εντελώς διαφορετικές εμπειρίες. Η οικογένειά της είχε προγραμματίσει ένα ταξίδι 15 ημερών στο Λος Άντζελες, το οποίο περιλάμβανε μια επίσκεψη στη μαγική Disneyland, ένα ταξίδι που ονειρευόταν να πραγματοποιήσει από παιδί. Αυτό που προοριζόταν να είναι το τέλος των πολυαναμενόμενων διακοπών της μετατράπηκε στην αρχή ενός εντελώς διαφορετικού κεφαλαίου. Οι γονείς της Nancy ενημερώθηκαν ότι το αεροδρόμιο του Χαλεπίου είχε κλείσει, ενώ πίσω στην πατρίδα της οι παππούδες και οι φίλοι της αντιμετώπιζαν δυσκολίες, μεταξύ των οποίων και διακοπές ρεύματος που διήρκεσαν μία εβδομάδα. Τότε ήταν που ο πατέρας της τούς είπε: «Δεν μπορούμε να επιστρέψουμε». Αυτά τα λόγια σηματοδότησαν την αρχή μιας άγνωστης ζωής, 7.344 μίλια μακριά από όλα όσα γνώριζε μέχρι τότε. Με την πάροδο του χρόνου, κάποιες από εκείνες τις δύσκολες αναμνήσεις έχουν αρχίσει να θολώνουν. Η Nancy πιστεύει ότι αυτό ίσως είναι ο τρόπος με τον οποίο το μυαλό της προσπαθεί να την προστατεύσει.",
+
+      "Μία ακόμη πρόκληση που αντιμετώπισε ήταν η προσαρμογή σε ένα ξένο περιβάλλον και η επαφή με μια κουλτούρα διαφορετική από τη δική της. Είναι ιδιαίτερα ευγνώμων στη μητέρα της, η οποία κατάφερε να διαχειριστεί τις δυσκολίες του ξεριζωμού, φροντίζοντας παράλληλα τα παιδιά της να μη μαθαίνουν για τα σκληρά γεγονότα που συνέβαιναν στην πατρίδα τους. Η Nancy γνώριζε ήδη την αγγλική γλώσσα, καθώς την είχε μάθει στο γαλλικό σχολείο της αλλά και από την νταντά της, η οποία αφιέρωνε χρόνο για να της τη διδάσκει. Η μητέρα της, ωστόσο, δεν γνώριζε τη γλώσσα. Όπως θυμάται, ακόμη και απλές καθημερινές υποχρεώσεις στη νέα της γειτονιά αποτελούσαν πρόκληση.",
+
+      "Παραδέχεται με ειλικρίνεια ότι δεν γνώριζε πώς να ξαναχτίσει το αίσθημα του ανήκειν στις Ηνωμένες Πολιτείες. Παρ' όλα αυτά, δεν ήθελε να εγκαταλείψει την προσπάθεια, καθώς της είχε δοθεί μια δεύτερη ευκαιρία στη ζωή. Ίσως το σημαντικότερο είναι ότι, για εκείνη, οι επιπτώσεις του πολέμου δεν εξαφανίστηκαν ποτέ εντελώς. Μέχρι σήμερα, η Nancy συνεχίζει να προσαρμόζεται σε μια διαφορετική κουλτούρα, ενώ βρίσκεται μακριά από την οικογένεια και τους φίλους της, μια κατάσταση που δεν επέλεξε ποτέ πραγματικά και την οποία δεν θα είχε βιώσει εάν δεν είχε αναγκαστεί να φύγει.",
+
+      "Ύστερα από επτά χρόνια, ένιωσε ότι το Λος Άντζελες είχε αρχίσει να γίνεται το σπίτι της, ένας τόπος από όπου μπορούσε να κυνηγήσει τα όνειρά της και να αγωνιστεί για έναν καλύτερο κόσμο από εκείνον που είχε αναγκαστεί να γνωρίσει. Σε ηλικία μόλις 13 ετών, συνειδητοποίησε ότι ήθελε να αξιοποιήσει στο έπακρο τη δεύτερη ευκαιρία στη ζωή που της είχε δοθεί. Ήταν ιδιαίτερα σημαντικό για εκείνη να θέσει ως στόχο να αλλάξει τον κόσμο και να συνεχίσει να αγωνίζεται για αυτόν τον σκοπό.",
+
+      "Πολύ πριν ακόμη γνωρίζει τι είναι ένα πανεπιστήμιο, η Nancy είχε ήδη θέσει ως στόχο να φοιτήσει σε ένα από αυτά. Θυμάται να ακούει τυχαία τα ξαδέλφια της να συζητούν για το καλύτερο πανεπιστήμιο στον κόσμο. Όταν άκουσε το όνομα Harvard, θυμάται να λέει στον εαυτό της: «Αν αυτό είναι το καλύτερο πανεπιστήμιο, τότε θέλω να αποφοιτήσω από αυτό». Παρόλο που τελικά φοίτησε στο Columbia και όχι στο Harvard, η Nancy δεν έχασε ποτέ από τα μάτια της τη σημασία του να θέτει υψηλούς στόχους, προκειμένου να αποκτήσει την καλύτερη δυνατή εκπαίδευση και τις γνώσεις που θα της επιτρέψουν να αλλάξει τον κόσμο γύρω της. Όπως χαρακτηριστικά λέει: «Αν στοχεύεις στο φεγγάρι, θα καταλήξεις στα αστέρια».",
+
+      "Πέρα από τις ίδιες τις ακαδημαϊκές της φιλοδοξίες, η προσπάθεια να προσανατολιστεί σε ένα άγνωστο εκπαιδευτικό σύστημα παρουσίαζε τις δικές της δυσκολίες. Θυμάται ότι αφιέρωσε αρκετό χρόνο προσπαθώντας να καταλάβει πώς λειτουργούσε το σύστημα και πού μπορούσε να βρει ευκαιρίες. Θυμάται έντονα να επικοινωνεί μέσω ηλεκτρονικού ταχυδρομείου με διάφορες λέσχες και οργανισμούς, ρωτώντας αν θα μπορούσε να συμμετάσχει σε αυτούς, ακόμη κι όταν δεν γνώριζε πολλά για τη δράση τους. Αυτές οι εμπειρίες αποτέλεσαν επίσης μαθήματα που αργότερα θα μετέφερε στη μικρότερη αδελφή της, βοηθώντας την να ανακαλύψει και να αξιοποιήσει ευκαιρίες τις οποίες η ίδια η Nancy είχε κάποτε δυσκολευτεί να εντοπίσει. Ένα από τα σημαντικότερα μαθήματα που αποκόμισε ήταν η αξία του να ζητά κανείς βοήθεια και καθοδήγηση όταν αισθάνεται αβέβαιος ή δεν γνωρίζει πώς να προσεγγίσει κάτι. Έτσι, συνειδητοποίησε ότι όσο πιο σκληρά δουλεύεις, τόσο πιο τυχερός γίνεσαι.",
+
+      "Στο Πανεπιστήμιο Columbia, η Nancy κατάλαβε τι σημαίνει πραγματικά η φράση «η γνώση είναι δύναμη», τόσο μέσα από τους καθηγητές της όσο και μέσα από τις εμπειρίες της εκεί. Έχει δει από κοντά νομπελίστες να συνεχίζουν την έρευνά τους, γεγονός που της υπενθυμίζει ότι η αναζήτηση της γνώσης δεν τελειώνει ποτέ πραγματικά. Για εκείνη, η φοίτηση στο Columbia δεν σημαίνει ότι θα σταματήσει να αποκτά γνώσεις από τους ανθρώπους και τις εμπειρίες που θα συναντήσει στο μέλλον ή ότι θα σταματήσει να εξελίσσεται.",
+
+      "Η επιθυμία της να κάνει τη διαφορά πήρε μορφή μέσα από τη δημιουργία του «End No Sleep», ενός μη κερδοσκοπικού οργανισμού που έχει ως στόχο να προσφέρει στους νέους σε όλο τον κόσμο προσβάσιμη φροντίδα και πόρους για την υποστήριξη της ψυχικής τους υγείας, αντιμετωπίζοντας παράλληλα έναν από τους παράγοντες που συχνά παραβλέπονται και μπορούν να συμβάλουν σε προβλήματα ψυχικής υγείας: τη στέρηση ύπνου. Αρχικά, η Nancy μοιράστηκε τις ιδέες της με φίλους, συνεργάτες και μέλη της οικογένειάς της. Όλα ξεκίνησαν τόσο απλά, με το να ρωτήσει δύο φίλους της αν θα ήθελαν να συμμετάσχουν στο νέο της εγχείρημα. Δημιούργησε επίσης μια παρουσίαση PowerPoint εννέα διαφανειών, στην οποία ανέλυε τα οφέλη του ύπνου και την οποία ήθελε να παρουσιάσει σε τοπικά σχολεία και οργανισμούς. Χρησιμοποιώντας δικά της χρήματα, προσέλαβε έναν δικηγόρο, με την επιθυμία να αποκτήσει το End No Sleep επίσημη νομική υπόσταση. Το 2023, εκείνη και η ομάδα της μετέτρεψαν την πρωτοβουλία της σε έναν τεχνολογικό μη κερδοσκοπικό οργανισμό, αξιοποιώντας την τεχνητή νοημοσύνη, με στόχο να βοηθήσουν χιλιάδες νέους σε όλο τον κόσμο. Σήμερα, το End No Sleep επικεντρώνεται κυρίως στην προληπτική φροντίδα υγείας, καθώς ο ύπνος διαδραματίζει καθοριστικό ρόλο τόσο στην ψυχική όσο και στη σωματική ευεξία.",
+
+      "Ένα από τα βασικά προγράμματα του οργανισμού είναι ένα chatbot τεχνητής νοημοσύνης, το οποίο είναι δωρεάν και προσβάσιμο μέσω WhatsApp και αποσκοπεί στο να προσφέρει σε νέους από όλο τον κόσμο πρόσβαση σε πόρους προληπτικής φροντίδας υγείας. Απαντώντας σε μια σειρά ερωτήσεων, οι χρήστες λαμβάνουν καθοδήγηση σχετικά με τις δυσκολίες που αντιμετωπίζουν με τον ύπνο, καθώς και πρόσβαση σε χρήσιμους πόρους, συμπεριλαμβανομένων ασκήσεων για την ψυχική υγεία. Η Nancy τονίζει ότι, σε αντίθεση με πολλά άλλα chatbot τεχνητής νοημοσύνης, η καθοδήγησή του ελέγχεται από την ιατρική επιτροπή του οργανισμού, ενώ τα δεδομένα των χρηστών παραμένουν ανώνυμα.",
+
+      "Πέρα από αυτή την ψηφιακή πρωτοβουλία, το End No Sleep συνεχίζει να παρέχει στα σχολεία ένα ψηφιακό εκπαιδευτικό πρόγραμμα σχετικά με την υγεία του ύπνου, ενισχύοντας την ενημέρωση για τη σημασία του ύπνου και τη σύνδεσή του με τη συνολική ευεξία. Ένας τρίτος τομέας της δράσης του αφορά την προάσπιση και διεκδίκηση καλύτερων πολιτικών για τον ύπνο. Μέσα από το διεθνές δίκτυο εθελοντών του, ο οργανισμός ενθαρρύνει τους νέους να διεκδικούν καλύτερες πολιτικές για τον ύπνο στις κοινότητές τους. Αυτό μπορεί να ξεκινήσει από κάτι τόσο απλό όσο το να προσεγγίσουν τους καθηγητές τους και να συζητήσουν τη μείωση του υπερβολικού φόρτου σχολικών εργασιών ή να ενθαρρύνουν τα σχολεία να συμπεριλάβουν τους γονείς στη δημιουργία ενός περιβάλλοντος που υποστηρίζει καλύτερες συνήθειες ύπνου για τους μαθητές. Η Nancy εξηγεί επίσης ότι, παρόλο που η αλλαγή πολιτικών δεν αποτελεί ακόμη κεντρικό μέρος της δράσης του οργανισμού, στόχος τους είναι να εξοπλίσουν τους εθελοντές με τις απαραίτητες γνώσεις και τα κατάλληλα μέσα, ώστε να μπορέσουν να συνεχίσουν αυτή την προσπάθεια.",
+
+      "Τα μεγαλύτερα εμπόδια που αντιμετώπισε ήταν οι δυσκολίες στη χρηματοδότηση και, κυρίως, το ρίσκο του να αναλάβει σε ηλικία μόλις 19 ετών κάτι εντελώς άγνωστο για την ίδια. Έπρεπε να διαχειριστεί μόνη της ένα μεγάλο μέρος του φόρτου εργασίας και αρχικά δυσκολεύτηκε να αναθέσει αρμοδιότητες σε άλλους, καθώς ήθελε να διασφαλίσει ότι το έργο αυτό θα είχε ουσιαστικό αντίκτυπο. Ένα ακόμη εμπόδιο ήταν η αμφιβολία για τον εαυτό της, η οποία την έκανε να αμφισβητεί τις ίδιες της τις δυνατότητες. Θυμάται ότι έστειλε σχεδόν 100 ηλεκτρονικά μηνύματα σε ανθρώπους με τους οποίους δεν είχε προηγούμενη επικοινωνία, λαμβάνοντας μόλις τρεις ή τέσσερις απαντήσεις. Ωστόσο, αυτές οι λίγες απαντήσεις αποτέλεσαν τη βάση για τη δημιουργία της πρώτης της ομάδας, κάνοντάς την να καταλάβει ότι το να ζητά κανείς βοήθεια μπορεί να ανοίξει πόρτες και να δημιουργήσει ευκαιρίες που ίσως να μην είχε βρει διαφορετικά.",
+
+      "Για τη Nancy, αυτό που έχει τη μεγαλύτερη σημασία είναι ότι κατάφερε να αξιοποιήσει τη δεύτερη ευκαιρία στη ζωή που της δόθηκε, δημιουργώντας κάτι που βοηθά άλλους ανθρώπους. Μοιράζεται ότι υπήρξαν στιγμές κατά τις οποίες άνθρωποι επικοινώνησαν μαζί της για να την ευχαριστήσουν για τη βοήθειά της. Η ίδια έχει επίσης αντιμετωπίσει προβλήματα υγείας στη ζωή της, γεγονός που κάνει την αποστολή του οργανισμού να υποστηρίζει την ευημερία των νέων ακόμη πιο σημαντική για εκείνη. Όπως εξηγεί, η γνώση ότι έστω και ένας άνθρωπος έχει ωφεληθεί από τη δράση τους είναι αρκετή για να της υπενθυμίζει τον λόγο για τον οποίο ξεκίνησε.",
+
+      "Με την πάροδο των χρόνων, το έργο της Nancy έχει λάβει αναγνώριση από διάφορα ιδρύματα και οργανισμούς, μεταξύ των οποίων οι One Young World, Vital Voices, Zurich Foundation, Clinton Foundation και Western Union Foundation. Αυτή η αναγνώριση αποτελεί για την ίδια και την ομάδα της ένα σημαντικό κίνητρο για να συνεχίσουν να αναπτύσσουν και να εξελίσσουν τον οργανισμό τους καθημερινά, καθώς η διαδικασία συνοδεύεται από πολλές δυσκολίες και πιέσεις. Ένα ακόμη σημαντικό σημείο στην πορεία της ήταν η πρόσκλησή της στο Harvard, όπου μίλησε ως ομιλήτρια σε ένα πάνελ για την προσωπική της ιστορία και το έργο της. Έχοντας προηγουμένως απορριφθεί από το ίδιο πανεπιστήμιο, το γεγονός ότι λίγα χρόνια αργότερα βρέθηκε να μοιράζεται την ιστορία της με τους φοιτητές του είχε για εκείνη έναν ιδιαίτερο συμβολισμό, μια στιγμή που η ίδια περιγράφει ως μια εμπειρία που ολοκλήρωσε έναν κύκλο.",
+
+      "Από την αρχή της πορείας της, η Nancy δεν άκουγε πάντοτε ενθαρρυντικά λόγια σχετικά με τα όνειρά της. Για κάποιους ανθρώπους, τα όνειρά της φαίνονταν μη ρεαλιστικά, καθώς έκριναν τις δυνατότητές της με βάση την εικόνα που είχαν σχηματίσει για εκείνη, αντί να αναγνωρίσουν τη φιλοδοξία της και την εργατικότητα που απαιτούνταν για να τα πετύχει. Η ίδια μετέτρεψε αυτή την υποτίμηση σε κίνητρο, όχι για να αποδείξει σε κανέναν ότι έκανε λάθος, αλλά για να συνεχίσει να κυνηγά τα όνειρά της. Εξηγεί ότι, σε όλη της τη ζωή, τα όνειρά της δεν της φάνηκαν ποτέ ανέφικτα και ούτε η οικογένειά της πίστευε κάτι διαφορετικό. «Να περιβάλλεστε από ανθρώπους που κάνουν τα όνειρά σας να μοιάζουν εφικτά και δείχνουν ενδιαφέρον για τις ασχολίες σας και τα σχέδιά σας», συμβουλεύει η ίδια. Για τη Nancy, ακόμη και μια απλή εκδήλωση ενδιαφέροντος για τη δουλειά στην οποία κάποιος έχει βάλει την ψυχή του είναι πραγματικά ξεχωριστή.",
+    ],
+
+    questions: [
+      "When others consider our dreams unrealistic, what gives us the courage to keep pursuing them?",
+      "How can the challenges we face in life inspire us to create positive change for others?",
+    ],
+
+    greekQuestions: [
+      "Όταν οι άλλοι θεωρούν τα όνειρά μας ανέφικτα, τι είναι αυτό που μας δίνει το θάρρος να συνεχίσουμε να τα κυνηγάμε;",
+      "Πώς μπορούν οι δυσκολίες που αντιμετωπίζουμε στη ζωή να μας εμπνεύσουν να συμβάλλουμε στη δημιουργία θετικής αλλαγής για τους άλλους;",
+    ],
+  },
+
 };
 
 export default function StoryPage({
@@ -301,19 +395,21 @@ export default function StoryPage({
           </div>
         </header>
 
-        <div className="story-image">
-          <Image
-            src={story.image}
-            alt={
-              isEnglish
-                ? story.title
-                : story.greekTitle
-            }
-            width={1200}
-            height={800}
-            priority
-          />
-        </div>
+       <div className="story-image">
+  <Image
+  unoptimized
+    src={story.image}
+    alt={
+      isEnglish
+        ? story.title
+        : story.greekTitle
+    }
+    width={1200}
+    height={800}
+    priority
+    sizes="(max-width: 768px) 100vw, 900px"
+  />
+</div>
 
         <div className="story-body">
           <p className="story-person">
